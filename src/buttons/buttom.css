@@ -1,0 +1,10 @@
+.btnCV{
+    text-transform: uppercase;
+    background-color: rgb(4, 19, 105);
+    color:#ffffff;
+    padding: 15px;
+    border-radius:10px ;
+    width: 200px;
+    margin: 10px;
+    text-align: center;
+}

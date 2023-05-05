@@ -1,0 +1,10 @@
+.txt{
+ 
+    text-transform: uppercase;
+    background-color: rgb(12, 105, 4);
+    color:#000000;
+    padding: 15px;
+    width: 200px;
+    margin: 10px;
+    text-align: center;
+}

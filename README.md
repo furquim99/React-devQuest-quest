@@ -1,6 +1,17 @@
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Exercicio proposto pela turma 9 do dev-quest
+## Objetivos:
+Componente que colore e transforma um texto para
+maiúsculo (uppercase) utilizando JS.
+
+Crie um componente Button com um evento de clique que
+apresente um alerta informando a prop label do botão que
+foi clicado, com a seguinte mensagem: "A label desse botão é
+</insira a label aqui via JS/>".
 
 ## Available Scripts
 
